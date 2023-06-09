@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/bin/Debug/net6.0/example004
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/bin/Debug/net6.0/example004.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/bin/Debug/net6.0/example004.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/bin/Debug/net6.0/example004.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/bin/Debug/net6.0/example004.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/example004.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/example004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/example004.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/example004.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/example004.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/example004.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/refint/example004.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/example004.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/example004.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/git lesson c#/example004/obj/Debug/net6.0/ref/example004.dll
